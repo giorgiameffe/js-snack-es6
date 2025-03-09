@@ -50,6 +50,31 @@ for (let i = 0; i < footballTeams.length; i++) {
 
 console.log(footballTeams);
 
+// creare un array e attraverso un ciclo assegnare nome e falli delle rispettive squadre 
+
+const footballTeamsNamesAndFouls = [];
+
+for (let i = 0; i < footballTeams.length; i++) {
+
+    const teamName = footballTeams[i].team; 
+    console.log(teamName)
+    const teamsFouls = generateRandomNumbers(0,10);
+    console.log(teamsFouls)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
