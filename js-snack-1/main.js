@@ -38,7 +38,7 @@ for (let i = 0; i < bikes.length; i++) {
 
 console.log(bikesWeight);
 
-// sort --> ordina gli elemtenti dell'array dal numero più basso al numero più alto
+// sort --> ordina gli elementi dell'array dal numero più basso al numero più alto
 
 bikesWeight.sort();
 
